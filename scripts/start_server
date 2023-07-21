@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+pm2 restart index
