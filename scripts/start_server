@@ -1,2 +1,2 @@
 #!/bin/bash
-/home/ubuntu/.nvm/versions/node/v18.11.0/bin/pm2 restart index
+pm2 restart index
