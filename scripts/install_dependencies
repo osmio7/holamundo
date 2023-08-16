@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/ubuntu/holamundo && git pull
+/home/ubuntu/kd-backend && git pull
