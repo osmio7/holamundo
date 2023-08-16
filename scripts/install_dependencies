@@ -1,2 +1,2 @@
 #!/bin/bash
-/home/ubuntu/kd-backend && git pull
+cd /home/ubuntu/kd-backend && git pull
